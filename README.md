@@ -1,2 +1,2 @@
 # Demos
-learn from mooc
+just for fun ~
